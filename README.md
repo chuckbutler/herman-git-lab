@@ -1,3 +1,4 @@
+Conflict!
 herman-git-lab
 ==============
 
